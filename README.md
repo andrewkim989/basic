@@ -10,3 +10,9 @@ git remote add origin https://github.com/andrewkim989/basic.git
 git push -u origin master
 
 Login and password to push the assignments to here. 
+
+
+Clone repository with: 
+
+git clone https://github.com/choi5983/street_fighter
+
